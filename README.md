@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on the Digital Transformation of my company, being responsible for updating and reparing its systems.
 - 🌱 I’m currently learning
-<img loading="lazy" src="https://image.similarpng.com/very-thumbnail/2021/12/Python-programming-logo-on-transparent-background-PNG.png" width="40" height="40"/>
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="40" height="40"/>
+<img loading="lazy" src="https://www.svgrepo.com/show/376344/python.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="40" height="40"/>
 
 - 👯 I’m looking to collaborate on Development and Data Science fields, mainly.
 - 💬 Ask me about my professional profile.
