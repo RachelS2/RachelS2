@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/rachelbarinosilva/
 - 😄 Pronouns: she/her
 
-[![RachelS2's GitHub stats](https://github-readme-stats.vercel.app/api?RachelS2=RachelS2)](https://github.com/RachelS2/github-readme-stats)
+[![RachelS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelS2)](https://github.com/RachelS2/github-readme-stats)
