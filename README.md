@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning Python for Data Science, Microsoft Power BI and Java Spring Boot.
 - 👯 I’m looking to collaborate on Development and Data Science fields, mainly.
 - 💬 Ask me about my professional profile.
-- 📫 How to reach me: https://www.linkedin.com/in/rachelbarinosilva/
 - 😄 Pronouns: she/her
 
-[![RachelS2's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelS2)](https://github.com/RachelS2/github-readme-stats)
+##Contacts 📫:
+
+<div>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/rachelbarinosilva/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
