@@ -1,13 +1,17 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on the Digital Transformation of my company, being responsible for updating and reparing its systems.
-- 🌱 I’m currently learning
+## 🔭 I’m currently working...
+on the Digital Transformation of my company, being responsible for updating and reparing its systems.
+
+## 🌱 I’m currently learning
 
 <img loading="lazy" src="https://i.pinimg.com/originals/82/a2/18/82a2188c985ce75402ae44fc43fe7e5e.png" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" width="40" height="40"/>
 
-- 👯 I’m looking to collaborate on Development and Data Science fields, mainly.
-- 💬 Ask me about my professional profile.
-- 😄 Pronouns: she/her
+## 👯 I’m looking to collaborate on...
+Development and Data Science fields, mainly.
+
+## 💬 Ask me about...
+my professional profile.
 
 ## Contacts 📫
 
