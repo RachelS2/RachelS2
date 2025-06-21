@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I’m currently working...
+[## I’m currently working...
 on the Digital Transformation of my company, being responsible for updating and reparing its systems.
 
 ## I’m currently learning
@@ -11,7 +11,7 @@ on the Digital Transformation of my company, being responsible for updating and 
 Development and Data Science fields, mainly.
 
 ## Ask me about...
-my professional profile.
+my professional profile.](url)
 
 ## Contacts
 
